@@ -5,3 +5,5 @@ Simple python app to check your local weather using zip codes or city name.
 requirements:
     python3,
     pysimplegui
+    
+There is also a windows exe included.
