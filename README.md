@@ -8,4 +8,5 @@ requirements:
     requests
     
 For windows users there is a weather.exe included
+
 For Mac users there is weather.app
