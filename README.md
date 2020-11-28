@@ -10,6 +10,6 @@ requirements:
     
     requests
     
-For windows users there is a weather.exe included
+For windows users weather.exe is included
 
-For Mac users there is weather.app
+For Mac users weather.app is included
