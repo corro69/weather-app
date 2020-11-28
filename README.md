@@ -6,3 +6,5 @@ requirements:
     python3,
     pysimplegui
     requests
+    
+For windows users there is a weather.exe included
