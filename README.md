@@ -10,6 +10,8 @@ requirements:
     
     requests
     
+    wget
+    
 For windows users weather.exe is included
 
 For Mac users weather.app is included
